@@ -75,7 +75,9 @@ _No problems solved yet_
 
 ## 🏆 Recent Achievements
 
-| 2025-11-14 | ReverseInteger | Medium | Java, Python, JavaScript, C++ |
+| Date | Problem | Difficulty | Languages |
+|:----:|:--------|:----------:|:----------|
+| 2025-11-14 | `ReverseInteger` | 🟡 Medium | Java, Python +2 |
 
 
 ---
