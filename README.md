@@ -1,6 +1,7 @@
 # 🚀 LeetCode Solutions
 
 [![Problems Solved](https://img.shields.io/badge/Solved-1-brightgreen?style=for-the-badge)](.)
+\n
 [![Current Streak](https://img.shields.io/badge/Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire)](.)
 
 > My journey through LeetCode problems - Last updated: **2025-11-14**
@@ -41,11 +42,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 ## 📅 Contribution Calendar
 
 **2025-11**
-⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-⬜ ⬜ ⬜ ⬜ 🟩 ⬜ ⬜
-⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜\n
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜\n
+⬜ ⬜ ⬜ ⬜ 🟩 ⬜ ⬜\n
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜\n
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜\n
 
 ---
 
