@@ -1,6 +1,5 @@
 # 🚀 LeetCode Solutions
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/xurP3KEe5C)
 [![Problems Solved](https://img.shields.io/badge/Solved-1-brightgreen?style=for-the-badge)](.)
 [![Current Streak](https://img.shields.io/badge/Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire)](.)
 
@@ -11,7 +10,7 @@
 ## 📊 Progress Overview
 
 ```
-Total Problems: 1/3000+
+Total Problems: 1/3744
 ├── Easy:       0 ⭐
 ├── Medium:     1 ⭐⭐
 └── Hard:       0 ⭐⭐⭐
@@ -41,41 +40,31 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 📅 Contribution Calendar
 
-
 **2025-11**
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟩
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+⬜ ⬜ ⬜ ⬜ 🟩 ⬜ ⬜
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-⬜ ⬜ ⬜
 
 ---
 
 ## 🗂️ Problems by Difficulty
 
-<details open>
-<summary><b>⭐ Easy (0 problems)</b></summary>
+### ⭐ Easy (0 problems)
 
 _No problems solved yet_
 
 
-</details>
+### ⭐⭐ Medium (1 problems)
 
-<details open>
-<summary><b>⭐⭐ Medium (1 problems)</b></summary>
-
-| 0007 | [ReverseInteger](./Medium/0007-reverseinteger/) | Java, Python, JavaScript, C++ | 2025-11-14 |
+| 0007 | ReverseInteger | Java, Python, JavaScript, C++ | 2025-11-14 |
 
 
-</details>
-
-<details open>
-<summary><b>⭐⭐⭐ Hard (0 problems)</b></summary>
+### ⭐⭐⭐ Hard (0 problems)
 
 _No problems solved yet_
 
-
-</details>
 
 ---
 
@@ -102,21 +91,19 @@ problem-name/
 
 ## 🎯 Goals
 
-- [{"x" if total_solved >= 50 else " "}] Solve 50 problems
-- [{"x" if total_solved >= 100 else " "}] Solve 100 problems
-- [{"x" if current_streak >= 7 else " "}] 7-day streak
-- [{"x" if current_streak >= 30 else " "}] 30-day streak
-- [{"x" if easy_solved >= 25 else " "}] Solve 25 easy problems
-- [{"x" if medium_solved >= 25 else " "}] Solve 25 medium problems
-- [{"x" if hard_solved >= 10 else " "}] Solve 10 hard problems
+- [ ] Solve 50 problems
+- [ ] Solve 100 problems
+- [ ] 7-day streak
+- [ ] 30-day streak
+- [ ] Solve 25 easy problems
+- [ ] Solve 25 medium problems
+- [ ] Solve 10 hard problems
 
 ---
 
 <div align="center">
 
-**📊 Total Solutions: {total_solved}** | **🔥 Current Streak: {current_streak} days**
-
-_Generated automatically from progress.json_
+**📊 Total Solutions: 1** | **🔥 Current Streak: 1 days**
 
 **⭐ Star this repo if you find it helpful!**
 
