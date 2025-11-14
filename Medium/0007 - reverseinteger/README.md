@@ -44,14 +44,6 @@ Given a signed 32-bit integer `x`, return `x` with its digits reversed. If rever
 ---
 
 ## 🧩 Approach & Strategy
-
-### 🎨 Visual Representation
-Original: 123
-Step 1: 3 (remainder 12)
-Step 2: 32 (remainder 1)
-Step 3: 321 (remainder 0)
-Result: 321
-
 ### ⚡ Key Insights
 
 | Aspect | Handling Strategy |
