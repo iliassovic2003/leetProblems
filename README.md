@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Iliassovic)
 [![Problems Solved](https://img.shields.io/badge/Solved-1-brightgreen?style=for-the-badge)](.)
 [![Current Streak](https://img.shields.io/badge/Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire)](.)
 
