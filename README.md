@@ -1,15 +1,17 @@
 # 🚀 LeetCode Solutions
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div align="center">
+<div style="display: inline-block; margin: 0 10px;">
 [![Problems Solved](https://img.shields.io/badge/Solved-1-brightgreen?style=for-the-badge)](.)
+</div>
+<div style="display: inline-block; margin: 0 10px;">
 [![Current Streak](https://img.shields.io/badge/Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire)](.)
+</div>
 </div>
 
 > My journey through LeetCode problems - Last updated: **2025-11-14**
 
 ---
-
-## 📊 Progress Overview
 
 ```
 Total Problems: 1/3744
