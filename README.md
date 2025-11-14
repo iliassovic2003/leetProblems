@@ -1,7 +1,14 @@
 # 🚀 LeetCode Solutions
 
-[![Problems Solved](https://img.shields.io/badge/Solved-1-brightgreen?style=for-the-badge)](.)
-[![Current Streak](https://img.shields.io/badge/Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire)](.)
+<div align="center">
+
+### 🏆 Progress Badges
+
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-1-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+
+</div>
 
 > My journey through LeetCode problems - Last updated: **2025-11-14**
 
