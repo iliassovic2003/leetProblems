@@ -4,23 +4,23 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-1-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-2-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Current Streak](https://img.shields.io/badge/🔥%20Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2025-11-14**
+> My journey through LeetCode problems - Last updated: **2025-11-16**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 1/3744
+Total Problems: 2/3744
 ├── Easy:       0 ⭐
 ├── Medium:     1 ⭐⭐
-└── Hard:       0 ⭐⭐⭐
+└── Hard:       1 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
@@ -53,7 +53,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-⬜ ⬜ ⬜ ⬜ 🟩 ⬜ ⬜
+⬜ ⬜ ⬜ ⬜ 🟩 ⬜ 🟩
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -73,9 +73,9 @@ _No problems solved yet_
 | 0007 | ReverseInteger | Java, Python, JavaScript, C++ | 2025-11-14 |
 
 
-### ⭐⭐⭐ Hard (0 problems)
+### ⭐⭐⭐ Hard (1 problems)
 
-_No problems solved yet_
+| 0010 | Regular Expression Matching | Java, Python, JavaScript, C++ | 2025-11-16 |
 
 
 ---
@@ -84,6 +84,7 @@ _No problems solved yet_
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2025-11-16 | `Regular Expression...` | 🔴 Hard | Java, Python +2 |
 | 2025-11-14 | `ReverseInteger` | 🟡 Medium | Java, Python +2 |
 
 
@@ -117,7 +118,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 1** | **🔥 Current Streak: 1 days**
+**📊 Total Solutions: 2** | **🔥 Current Streak: 1 days**
 
 **⭐ Star this repo if you find it helpful!**
 
