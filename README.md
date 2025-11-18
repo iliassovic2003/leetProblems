@@ -65,19 +65,19 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ### ⭐ Easy (2 problems)
 
-| 0026 | Remove Duplicates from Sorted Array | Java, Python, JavaScript, C++ | 2025-11-18 |
+| 0026 | Remove Duplicates from Sorted Array | 2025-11-18 |
 
-| 0066 | Plus One | Java, Python, JavaScript, C++ | 2025-11-17 |
+| 0066 | Plus One | 2025-11-17 |
 
 
 ### ⭐⭐ Medium (1 problems)
 
-| 0007 | ReverseInteger | Java, Python, JavaScript, C++ | 2025-11-14 |
+| 0007 | ReverseInteger | 2025-11-14 |
 
 
 ### ⭐⭐⭐ Hard (1 problems)
 
-| 0010 | Regular Expression Matching | Java, Python, JavaScript, C++ | 2025-11-16 |
+| 0010 | Regular Expression Matching | 2025-11-16 |
 
 
 ---
