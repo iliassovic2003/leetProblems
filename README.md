@@ -66,6 +66,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 ### ⭐ Easy (2 problems)
 
 | 0026 | Remove Duplicates from Sorted Array | Java, Python, JavaScript, C++ | 2025-11-18 |
+
 | 0066 | Plus One | Java, Python, JavaScript, C++ | 2025-11-17 |
 
 
