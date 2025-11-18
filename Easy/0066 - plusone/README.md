@@ -84,6 +84,16 @@ The digits are ordered from most significant to least significant in left-to-rig
 **In-place - Modifies** original array when possible
 **Handles Edge Cases** - Properly manages all-9s scenario
 
+### 🎯 Solved In
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
+
 # 🔍 Key Observations
 
 Mathematical approach avoids string conversion overhead
