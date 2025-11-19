@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-4-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-5-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-3%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-4%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2025-11-18**
+> My journey through LeetCode problems - Last updated: **2025-11-19**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 4/3744
-├── Easy:       2 ⭐
+Total Problems: 5/3744
+├── Easy:       3 ⭐
 ├── Medium:     1 ⭐⭐
 └── Hard:       1 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 3 days 🔥
+- **Current Streak:** 4 days 🔥
 - **Longest Streak:** 0 days 🏆
 
 ---
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ 🟩 ⬜ 🟩
 
-🟩 🟩 ⬜ ⬜ ⬜ ⬜ ⬜
+🟩 🟩 🟩 ⬜ ⬜ ⬜ ⬜
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -63,19 +63,24 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (2 problems)
+### ⭐ Easy (3 problems)
+
 
 | 0026 | Remove Duplicates from Sorted Array | 2025-11-18 |
 
 | 0066 | Plus One | 2025-11-17 |
 
+| 1437 | Check If All 1's Are at Least Length K Places Away | 2025-11-19 |
+
 
 ### ⭐⭐ Medium (1 problems)
+
 
 | 0007 | ReverseInteger | 2025-11-14 |
 
 
 ### ⭐⭐⭐ Hard (1 problems)
+
 
 | 0010 | Regular Expression Matching | 2025-11-16 |
 
@@ -86,6 +91,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2025-11-19 | `Check If All 1's Are...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-18 | `Remove Duplicates...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-17 | `Plus One` | 🟢 Easy | Java, Python +2 |
 | 2025-11-16 | `Regular Expression...` | 🔴 Hard | Java, Python +2 |
@@ -122,7 +128,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 4** | **🔥 Current Streak: 3 days**
+**📊 Total Solutions: 5** | **🔥 Current Streak: 4 days**
 
 **⭐ Star this repo if you find it helpful!**
 
