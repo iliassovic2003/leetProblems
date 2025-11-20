@@ -148,6 +148,6 @@ The solution employs a **sliding window** approach where the window represents t
 
 **Problem Type:** Constraint Checking • Binary Array Processing
 
-**Last Updated:** 📅 2024-01-15
+**Last Updated:** 📅 2024-01-19
 
 </div>
