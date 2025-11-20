@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-5-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-6-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-4%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-5%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2025-11-19**
+> My journey through LeetCode problems - Last updated: **2025-11-20**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 5/3744
-├── Easy:       3 ⭐
+Total Problems: 6/3744
+├── Easy:       4 ⭐
 ├── Medium:     1 ⭐⭐
 └── Hard:       1 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 4 days 🔥
+- **Current Streak:** 5 days 🔥
 - **Longest Streak:** 0 days 🏆
 
 ---
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ 🟩 ⬜ 🟩
 
-🟩 🟩 🟩 ⬜ ⬜ ⬜ ⬜
+🟩 🟩 🟩 🟩 ⬜ ⬜ ⬜
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -63,7 +63,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (3 problems)
+### ⭐ Easy (4 problems)
 
 
 | 0026 | Remove Duplicates from Sorted Array | 2025-11-18 |
@@ -71,6 +71,8 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 0066 | Plus One | 2025-11-17 |
 
 | 1437 | Check If All 1's Are at Least Length K Places Away | 2025-11-19 |
+
+| 2154 | Keep Multiplying Found Values by Two | 2025-11-20 |
 
 
 ### ⭐⭐ Medium (1 problems)
@@ -91,11 +93,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2025-11-20 | `Keep Multiplying...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-19 | `Check If All 1's Are...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-18 | `Remove Duplicates...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-17 | `Plus One` | 🟢 Easy | Java, Python +2 |
 | 2025-11-16 | `Regular Expression...` | 🔴 Hard | Java, Python +2 |
-| 2025-11-14 | `ReverseInteger` | 🟡 Medium | Java, Python +2 |
 
 
 ---
@@ -128,7 +130,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 5** | **🔥 Current Streak: 4 days**
+**📊 Total Solutions: 6** | **🔥 Current Streak: 5 days**
 
 **⭐ Star this repo if you find it helpful!**
 
