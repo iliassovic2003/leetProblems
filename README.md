@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-6-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-7-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-5%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-6%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2025-11-20**
+> My journey through LeetCode problems - Last updated: **2025-11-21**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 6/3744
+Total Problems: 7/3744
 ├── Easy:       4 ⭐
-├── Medium:     1 ⭐⭐
+├── Medium:     2 ⭐⭐
 └── Hard:       1 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 5 days 🔥
+- **Current Streak:** 6 days 🔥
 - **Longest Streak:** 0 days 🏆
 
 ---
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ 🟩 ⬜ 🟩
 
-🟩 🟩 🟩 🟩 ⬜ ⬜ ⬜
+🟩 🟩 🟩 🟩 🟩 ⬜ ⬜
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -75,10 +75,12 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 2154 | Keep Multiplying Found Values by Two | 2025-11-20 |
 
 
-### ⭐⭐ Medium (1 problems)
+### ⭐⭐ Medium (2 problems)
 
 
 | 0007 | ReverseInteger | 2025-11-14 |
+
+| 0029 | Divide Two Integers | 2025-11-21 |
 
 
 ### ⭐⭐⭐ Hard (1 problems)
@@ -93,11 +95,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2025-11-21 | `Divide Two Integers` | 🟡 Medium | Java, Python +2 |
 | 2025-11-20 | `Keep Multiplying...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-19 | `Check If All 1's Are...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-18 | `Remove Duplicates...` | 🟢 Easy | Java, Python +2 |
 | 2025-11-17 | `Plus One` | 🟢 Easy | Java, Python +2 |
-| 2025-11-16 | `Regular Expression...` | 🔴 Hard | Java, Python +2 |
 
 
 ---
@@ -130,7 +132,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 6** | **🔥 Current Streak: 5 days**
+**📊 Total Solutions: 7** | **🔥 Current Streak: 6 days**
 
 **⭐ Star this repo if you find it helpful!**
 
