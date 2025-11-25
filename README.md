@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-10-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-11-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-9%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-10%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2025-11-24**
+> My journey through LeetCode problems - Last updated: **2025-11-25**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 10/3744
-├── Easy:       5 ⭐
+Total Problems: 11/3744
+├── Easy:       6 ⭐
 ├── Medium:     3 ⭐⭐
 └── Hard:       2 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 9 days 🔥
+- **Current Streak:** 10 days 🔥
 - **Longest Streak:** 0 days 🏆
 
 ---
@@ -57,14 +57,16 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 🟩 🟩 🟩 🟩 🟩 🟩 🟩
 
-🟩 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+🟩 🟩 ⬜ ⬜ ⬜ ⬜ ⬜
 
 ---
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (5 problems)
+### ⭐ Easy (6 problems)
 
+
+| 0020 | Valid Parentheses | 2025-11-25 |
 
 | 0026 | Remove Duplicates from Sorted Array | 2025-11-18 |
 
@@ -101,11 +103,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2025-11-25 | `Valid Parentheses` | 🟢 Easy | Java, Python +2 |
 | 2025-11-24 | `Median of Two Sorted...` | 🔴 Hard | Java, Python +2 |
 | 2025-11-23 | `Longest Substring...` | 🟡 Medium | Java, Python +2 |
 | 2025-11-22 | `Sqrt(x)` | 🟢 Easy | Java, Python +2 |
 | 2025-11-21 | `Divide Two Integers` | 🟡 Medium | Java, Python +2 |
-| 2025-11-20 | `Keep Multiplying...` | 🟢 Easy | Java, Python +2 |
 
 
 ---
@@ -138,7 +140,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 10** | **🔥 Current Streak: 9 days**
+**📊 Total Solutions: 11** | **🔥 Current Streak: 10 days**
 
 **⭐ Star this repo if you find it helpful!**
 
