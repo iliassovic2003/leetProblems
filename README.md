@@ -4,28 +4,28 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-12-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-13-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-11%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2025-11-26**
+> My journey through LeetCode problems - Last updated: **2025-11-29**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 12/3744
+Total Problems: 13/3744
 ├── Easy:       7 ⭐
-├── Medium:     3 ⭐⭐
+├── Medium:     4 ⭐⭐
 └── Hard:       2 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 11 days 🔥
-- **Longest Streak:** 0 days 🏆
+- **Current Streak:** 1 days 🔥
+- **Longest Streak:** 11 days 🏆
 
 ---
 
@@ -57,7 +57,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 🟩 🟩 🟩 🟩 🟩 🟩 🟩
 
-🟩 🟩 🟩 ⬜ ⬜ ⬜ ⬜
+🟩 🟩 🟩 ⬜ ⬜ 🟩 ⬜
 
 ---
 
@@ -81,12 +81,14 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 2154 | Keep Multiplying Found Values by Two | 2025-11-20 |
 
 
-### ⭐⭐ Medium (3 problems)
+### ⭐⭐ Medium (4 problems)
 
 
 | 0003 | Longest Substring Without Repeating Characters | 2025-11-23 |
 
 | 0007 | ReverseInteger | 2025-11-14 |
+
+| 0011 | Container With Most Water | 2025-11-29 |
 
 | 0029 | Divide Two Integers | 2025-11-21 |
 
@@ -105,11 +107,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2025-11-29 | `Container With Most Water` | 🟡 Medium | Java, Python +2 |
 | 2025-11-26 | `Delete Duplicate Emails` | 🟢 Easy | MYSQL, MSSQL +3 |
 | 2025-11-25 | `Valid Parentheses` | 🟢 Easy | Java, Python +2 |
 | 2025-11-24 | `Median of Two Sorted...` | 🔴 Hard | Java, Python +2 |
 | 2025-11-23 | `Longest Substring...` | 🟡 Medium | Java, Python +2 |
-| 2025-11-22 | `Sqrt(x)` | 🟢 Easy | Java, Python +2 |
 
 
 ---
@@ -132,7 +134,7 @@ problem-name/
 
 - [ ] Solve 50 problems
 - [ ] Solve 100 problems
-- [x] 7-day streak
+- [ ] 7-day streak
 - [ ] 30-day streak
 - [ ] Solve 25 easy problems
 - [ ] Solve 25 medium problems
@@ -142,7 +144,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 12** | **🔥 Current Streak: 11 days**
+**📊 Total Solutions: 13** | **🔥 Current Streak: 1 days**
 
 **⭐ Star this repo if you find it helpful!**
 
