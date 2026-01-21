@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-14-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-15-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-1%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-2%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2026-01-20**
+> My journey through LeetCode problems - Last updated: **2026-01-21**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 14/3744
-├── Easy:       7 ⭐
+Total Problems: 15/3744
+├── Easy:       8 ⭐
 ├── Medium:     5 ⭐⭐
 └── Hard:       2 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 1 days 🔥
+- **Current Streak:** 2 days 🔥
 - **Longest Streak:** 11 days 🏆
 
 ---
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-⬜ 🟩 ⬜ ⬜ ⬜ ⬜ ⬜
+⬜ 🟩 🟩 ⬜ ⬜ ⬜ ⬜
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -63,7 +63,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (7 problems)
+### ⭐ Easy (8 problems)
 
 
 | 0020 | Valid Parentheses | 2025-11-25 |
@@ -73,6 +73,8 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 0066 | Plus One | 2025-11-17 |
 
 | 0069 | Sqrt(x) | 2025-11-22 |
+
+| 0118 | Pascal Triangle | 2026-01-21 |
 
 | 0196 | Delete Duplicate Emails | 2025-11-26 |
 
@@ -109,11 +111,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2026-01-21 | `Pascal Triangle` | 🟢 Easy | Java, Python +2 |
 | 2026-01-20 | `Sort Colors` | 🟡 Medium | Java, Python +2 |
 | 2025-11-29 | `Container With Most Water` | 🟡 Medium | Java, Python +2 |
 | 2025-11-26 | `Delete Duplicate Emails` | 🟢 Easy | MYSQL, MSSQL +3 |
 | 2025-11-25 | `Valid Parentheses` | 🟢 Easy | Java, Python +2 |
-| 2025-11-24 | `Median of Two Sorted...` | 🔴 Hard | Java, Python +2 |
 
 
 ---
@@ -146,7 +148,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 14** | **🔥 Current Streak: 1 days**
+**📊 Total Solutions: 15** | **🔥 Current Streak: 2 days**
 
 **⭐ Star this repo if you find it helpful!**
 
