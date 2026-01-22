@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-15-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-16-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-2%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-3%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2026-01-21**
+> My journey through LeetCode problems - Last updated: **2026-01-22**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 15/3744
-├── Easy:       8 ⭐
+Total Problems: 16/3744
+├── Easy:       9 ⭐
 ├── Medium:     5 ⭐⭐
 └── Hard:       2 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 2 days 🔥
+- **Current Streak:** 3 days 🔥
 - **Longest Streak:** 11 days 🏆
 
 ---
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-⬜ 🟩 🟩 ⬜ ⬜ ⬜ ⬜
+⬜ 🟩 🟩 🟩 ⬜ ⬜ ⬜
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -63,7 +63,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (8 problems)
+### ⭐ Easy (9 problems)
 
 
 | 0020 | Valid Parentheses | 2025-11-25 |
@@ -79,6 +79,8 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 0196 | Delete Duplicate Emails | 2025-11-26 |
 
 | 1437 | Check If All 1's Are at Least Length K Places Away | 2025-11-19 |
+
+| 1929 | Concatenation of Array | 2026-01-22 |
 
 | 2154 | Keep Multiplying Found Values by Two | 2025-11-20 |
 
@@ -111,11 +113,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2026-01-22 | `Concatenation of Array` | 🟢 Easy | Java, Python +2 |
 | 2026-01-21 | `Pascal Triangle` | 🟢 Easy | Java, Python +2 |
 | 2026-01-20 | `Sort Colors` | 🟡 Medium | Java, Python +2 |
 | 2025-11-29 | `Container With Most Water` | 🟡 Medium | Java, Python +2 |
 | 2025-11-26 | `Delete Duplicate Emails` | 🟢 Easy | MYSQL, MSSQL +3 |
-| 2025-11-25 | `Valid Parentheses` | 🟢 Easy | Java, Python +2 |
 
 
 ---
@@ -148,7 +150,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 15** | **🔥 Current Streak: 2 days**
+**📊 Total Solutions: 16** | **🔥 Current Streak: 3 days**
 
 **⭐ Star this repo if you find it helpful!**
 
