@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-16-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-17-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-3%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-4%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2026-01-22**
+> My journey through LeetCode problems - Last updated: **2026-01-23**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 16/3744
-├── Easy:       9 ⭐
+Total Problems: 17/3744
+├── Easy:       10 ⭐
 ├── Medium:     5 ⭐⭐
 └── Hard:       2 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 3 days 🔥
+- **Current Streak:** 4 days 🔥
 - **Longest Streak:** 11 days 🏆
 
 ---
@@ -38,7 +38,7 @@ Total Problems: 16/3744
 
 **By Difficulty**
 ```
-Easy:    ░░░░░░░░░░░░░░░░░░░░  0%
+Easy:    ░░░░░░░░░░░░░░░░░░░░  1%
 Medium:  ░░░░░░░░░░░░░░░░░░░░  0%
 Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 ```
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-⬜ 🟩 🟩 🟩 ⬜ ⬜ ⬜
+⬜ 🟩 🟩 🟩 🟩 ⬜ ⬜
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -63,7 +63,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (9 problems)
+### ⭐ Easy (10 problems)
 
 
 | 0020 | Valid Parentheses | 2025-11-25 |
@@ -77,6 +77,8 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 0118 | Pascal Triangle | 2026-01-21 |
 
 | 0196 | Delete Duplicate Emails | 2025-11-26 |
+
+| 0704 | Binary Search | 2026-01-23 |
 
 | 1437 | Check If All 1's Are at Least Length K Places Away | 2025-11-19 |
 
@@ -113,11 +115,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2026-01-23 | `Binary Search` | 🟢 Easy | Java, Python +2 |
 | 2026-01-22 | `Concatenation of Array` | 🟢 Easy | Java, Python +2 |
 | 2026-01-21 | `Pascal Triangle` | 🟢 Easy | Java, Python +2 |
 | 2026-01-20 | `Sort Colors` | 🟡 Medium | Java, Python +2 |
 | 2025-11-29 | `Container With Most Water` | 🟡 Medium | Java, Python +2 |
-| 2025-11-26 | `Delete Duplicate Emails` | 🟢 Easy | MYSQL, MSSQL +3 |
 
 
 ---
@@ -150,7 +152,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 16** | **🔥 Current Streak: 3 days**
+**📊 Total Solutions: 17** | **🔥 Current Streak: 4 days**
 
 **⭐ Star this repo if you find it helpful!**
 
