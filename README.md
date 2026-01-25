@@ -4,27 +4,27 @@
 
 ### 🏆 Progress Badges
 
-[![Problems Solved](https://img.shields.io/badge/📊%20Solved-18-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems Solved](https://img.shields.io/badge/📊%20Solved-19-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-5%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-6%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)](.)
 
 </div>
 
-> My journey through LeetCode problems - Last updated: **2026-01-24**
+> My journey through LeetCode problems - Last updated: **2026-01-25**
 
 ---
 
 ## 📊 Progress Overview
 
 ```
-Total Problems: 18/3744
-├── Easy:       11 ⭐
+Total Problems: 19/3744
+├── Easy:       12 ⭐
 ├── Medium:     5 ⭐⭐
 └── Hard:       2 ⭐⭐⭐
 ```
 
 ### 🔥 Streak Statistics
-- **Current Streak:** 5 days 🔥
+- **Current Streak:** 6 days 🔥
 - **Longest Streak:** 11 days 🏆
 
 ---
@@ -55,7 +55,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-⬜ 🟩 🟩 🟩 🟩 🟩 ⬜
+⬜ 🟩 🟩 🟩 🟩 🟩 🟩
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -63,7 +63,7 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 ## 🗂️ Problems by Difficulty
 
-### ⭐ Easy (11 problems)
+### ⭐ Easy (12 problems)
 
 
 | 0020 | Valid Parentheses | 2025-11-25 |
@@ -75,6 +75,8 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 | 0069 | Sqrt(x) | 2025-11-22 |
 
 | 0118 | Pascal Triangle | 2026-01-21 |
+
+| 0168 | Excel Sheet Column Title | 2026-01-25 |
 
 | 0191 | Number Of 1 Bits | 2026-01-24 |
 
@@ -117,11 +119,11 @@ Hard:    ░░░░░░░░░░░░░░░░░░░░  0%
 
 | Date | Problem | Difficulty | Languages |
 |:----:|:--------|:----------:|:----------|
+| 2026-01-25 | `Excel Sheet Column Title` | 🟢 Easy | Java, Python +2 |
 | 2026-01-24 | `Number Of 1 Bits` | 🟢 Easy | Java, Python +2 |
 | 2026-01-23 | `Binary Search` | 🟢 Easy | Java, Python +2 |
 | 2026-01-22 | `Concatenation of Array` | 🟢 Easy | Java, Python +2 |
 | 2026-01-21 | `Pascal Triangle` | 🟢 Easy | Java, Python +2 |
-| 2026-01-20 | `Sort Colors` | 🟡 Medium | Java, Python +2 |
 
 
 ---
@@ -154,7 +156,7 @@ problem-name/
 
 <div align="center">
 
-**📊 Total Solutions: 18** | **🔥 Current Streak: 5 days**
+**📊 Total Solutions: 19** | **🔥 Current Streak: 6 days**
 
 **⭐ Star this repo if you find it helpful!**
 
